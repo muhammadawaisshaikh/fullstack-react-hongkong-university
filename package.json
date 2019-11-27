@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-react-hongkong-university",
+  "version": "1.0.0",
+  "description": "Full Stack Web Development with React, MongoDB and ExpressJS  | The Hong Kong University of Science and Technology",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadawaisshaikh/fullstack-react-hongkong-university.git"
+  },
+  "keywords": [
+    "reactjs",
+    "mongodb",
+    "expressjs",
+    "bootstrap"
+  ],
+  "author": "Muhammad Awais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadawaisshaikh/fullstack-react-hongkong-university/issues"
+  },
+  "homepage": "https://github.com/muhammadawaisshaikh/fullstack-react-hongkong-university#readme"
+}
