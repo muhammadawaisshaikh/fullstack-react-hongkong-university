@@ -4,7 +4,9 @@
   "description": "Full Stack Web Development with React, MongoDB and ExpressJS  | The Hong Kong University of Science and Technology",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/muhammadawaisshaikh/fullstack-react-hongkong-university/issues"
   },
-  "homepage": "https://github.com/muhammadawaisshaikh/fullstack-react-hongkong-university#readme"
+  "homepage": "https://github.com/muhammadawaisshaikh/fullstack-react-hongkong-university#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
